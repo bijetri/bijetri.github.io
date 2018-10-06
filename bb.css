@@ -1,0 +1,35 @@
+a:link { color: #663300; text-decoration: none; }
+a:visited { color: #663300; text-decoration: none;} 
+a:hover { color: #996600; } 
+
+
+body {
+	background-color: #DDDDCC;
+	font-family: serif;
+	color: #663300;
+	}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: sans-serif;
+	color: #663300;
+}
+
+p {
+	font-family: serif;
+	color: #663300;
+	
+}
+
+.email {
+	font-family: monospace;
+}
+
+
+.paper-authors, a{
+	
+	
+}  .paper-venue a, .paper-links  a {
+  font-weight: normal;
+}
+
+
